@@ -40,7 +40,7 @@ Website: [MovieWatchlist](https://movie.rickchen.site)
 
 ### Cloud Services
 
-- EC2
+- Vercel
 
 ### Version Control
 
