@@ -4,7 +4,7 @@
 
 
 <div style="text-align:center">
-    <img src="watchlist_demo.gif" align="center" height="400" width="200">
+    <img src="watchlist_demo.gif" align="center" height="500" width="250">
 </div>
 
 <br>
