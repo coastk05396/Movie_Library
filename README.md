@@ -1,7 +1,12 @@
 # Movie Watchlist
 
-"Movie Watchlist" you can easily discover and collect impressive movies, as well as explore different movie and write them into your own account !
+<div align="center">
 
+[![license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENSE)
+
+</div>
+
+"Movie Watchlist" you can easily discover and collect impressive movies, as well as explore different movie and write them into your own account ! 
 
 <div align="center">
     <img src="watchlist_demo.gif" align="center" height="500" width="250">
