@@ -7,13 +7,12 @@
     <img src="watchlist_demo.gif" align="center" height="500" width="250">
 </div>
 
-<br>
+<br/>
+Test account: test123@test.com<br/>
+Test password: test13579<br/>
 
-Test account: test123@test.com
-Test password: test13579
 Website: [MovieWatchlist](https://movie.rickchen.site)
 
----
 
 ## Main Features
 
