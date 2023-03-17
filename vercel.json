@@ -8,7 +8,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "/movie_library/routes.py"
+        "dest": "/movie_library/__init__.py"
       }
     ]
   }
