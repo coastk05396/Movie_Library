@@ -155,6 +155,7 @@ def add_movie():
 
 
 @pages.get("/movie/<string:_id>")  #view logo
+@login_required
 def movie(_id: str):
     movie = Movie(**current_app.db.movie.find_one({"_id": _id})) #unpacking from MongoDB
     return render_template("movie_details.html", movie=movie)
