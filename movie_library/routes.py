@@ -109,10 +109,17 @@ def login():
 
 @pages.route("/logout")
 def logout():
-    del session["email"]
-    del session["user_id"]
+    current_theme = session.get("theme")
+    session.clear()
+    session["theme"] = current_theme
 
     return redirect(url_for(".login"))
+
+
+    # del session["email"]
+    # del session["user_id"]
+
+    # return redirect(url_for(".login"))
 
 
 
